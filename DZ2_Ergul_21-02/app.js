@@ -1,10 +1,11 @@
 // var Card = {
-//     number: '456789804563',
-//     data: '14.07.27',
+//     number: '4567 8980 4563 6423',
+//     data: '07/27',
 //     owner: 'Ergul',
-//     type: 'credit',
+//     CardType: 'VISA',
 //     CVC: 398,
 // }
+
 
 
 var bankBranch = {
@@ -18,6 +19,8 @@ var bankBranch = {
         house: '2'
     }
 }
+
+
 
 // var translationSystem = prompt('Введите название системы перевода денег')
 // switch (translationSystem) {
@@ -45,6 +48,7 @@ var bankBranch = {
 // }
 
 
+
 // if (translationSystem === 'Unistream' || translationSystem === 'unistream') {
 //     console.log('Деньги отправлены системой Unistream');
 // }   else if (translationSystem === 'RIA' || translationSystem === 'Ria' || translationSystem === 'ria') {
@@ -56,6 +60,7 @@ var bankBranch = {
 // }   else {
 //     console.log('Введена неправильная система перевода денег');
 //
+
 
 
 
@@ -91,6 +96,8 @@ var bankBranch = {
 //     default:
 //         console.log('Введена неправильная цифра')
 // }
+
+
 
 var customerType = 3
 customerType = customerType === 1 ? 'Физ. лицо' : customerType === 2 ? 'Юр. лицо' : 'Не найден тип покупателя'
