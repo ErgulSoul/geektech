@@ -1,0 +1,19 @@
+.enter {
+    text-align: center;
+}
+.enter h1 {
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: #204dbe;
+}
+.enter2 {
+    text-align: center;
+}
+.enter2 h2 {
+    margin-top: 50px;
+    color: darkred;
+    font-size: 50px;
+}
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/thumbs/1644217219_2-phonoteka-org-p-svetlo-belii-fon-2.jpg);
+}
